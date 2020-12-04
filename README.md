@@ -1,4 +1,4 @@
-![Logo](images/pipe.png)
-# Figma Slack updates
+![Logo](pipe.png)
+# Talentech - Design system pipeline
 
-Automatically posts all new commits each day in a slack channel from the Design system in Figma file's version history.
+Automatically posts all new commits each day in Talentech Slack channel: #design-system from the Design system in Figma file's version history.
