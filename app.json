@@ -1,8 +1,8 @@
 {
-  "name": "Figma Slack updates",
-  "description": "Post updates to Slack from a Figma file's version history",
-  "repository": "https://github.com/jordansinger/figma-slack-updates",
-  "logo": "https://github.com/jordansinger/figma-slack-updates/blob/master/images/logo.png?raw=true",
+  "name": "Talentech - Design system pipeline",
+  "description": "Automatically post daily summaries in Talentech Slach of published changes to our design system in Figma.",
+  "repository": "git@github.com:dstenmalm/t-design-system.git",
+  "logo": "https://github.com/dstenmalm/t-design-system/blob/main/pipe.png?raw=true",
   "env": {
     "FIGMA_PERSONAL_ACCESS_TOKEN": {
       "description": "The Figma Personal Access Token created for your account"
