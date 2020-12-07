@@ -27,7 +27,7 @@ def format_message(todays_versions):
 
   for version in todays_versions:
     description = version["description"]
-    message += "\n - " + description
+    message += "\n" + description
 
   return message
 
