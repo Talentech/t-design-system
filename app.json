@@ -1,6 +1,6 @@
 {
   "name": "Talentech - Design system pipeline",
-  "description": "Automatically post daily summaries in Talentech Slach of published changes to our design system in Figma.",
+  "description": "Automatically post daily summaries in Talentech Slack of published changes to our design system in Figma.",
   "repository": "git@github.com:dstenmalm/t-design-system.git",
   "logo": "https://github.com/dstenmalm/t-design-system/blob/main/pipe.png?raw=true",
   "env": {
