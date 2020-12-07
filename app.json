@@ -5,19 +5,19 @@
   "logo": "https://github.com/dstenmalm/t-design-system/blob/main/pipe.png?raw=true",
   "env": {
     "FIGMA_PERSONAL_ACCESS_TOKEN": {
-      "description": "The Figma Personal Access Token created for your account"
+      "id": "145631-dce92f73-4bc1-4b8f-be89-d223d8edb25c"
     },
     "FIGMA_FILE_KEY": {
-      "description": "The Figma file key to post updates from"
+      "id": "1eruLMWKnCE54V1sWUL1qo"
     },
     "SLACK_TEAM_ID": {
-    	"description": "The team ID from the Slack Webhook URL"
+    	"id": "TG12KRSHF"
     },
     "SLACK_USER_ID": {
-    	"description": "The user ID from the Slack Webhook URL"
+    	"id": "B01GWE2R96C"
     },
     "SLACK_CHANNEL_ID": {
-    	"description": "The channel ID from the Slack Webhook URL"
+    	"id": "OXYTlXExwcM298GWmBUcQnv1"
     }
   },
   "addons": [
