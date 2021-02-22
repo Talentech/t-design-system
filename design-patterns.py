@@ -7,8 +7,8 @@ load_dotenv()
 
 def get_updates():
   FIGMA_PERSONAL_ACCESS_TOKEN = environ.get('FIGMA_PERSONAL_ACCESS_TOKEN')
-  FIGMA_FILE_KEY = environ.get('FIGMA_DESIGN_PATERNS_KEY')
-  FIGMA_API_URL = "https://api.figma.com/v1/files/" + FIGMA_FILE_KEY + "/versions"
+  FIGMA_DESIGN_PATTERNS_KEY = environ.get('FIGMA_DESIGN_PATERNS_KEY')
+  FIGMA_API_URL = "https://api.figma.com/v1/files/" + FIGMA_DESIGN_PATTERNS_KEY + "/versions"
   FIGMA_API_HEADERS = { 'X-FIGMA-TOKEN': FIGMA_PERSONAL_ACCESS_TOKEN }
 
   r = requests.get(url = FIGMA_API_URL, headers = FIGMA_API_HEADERS)
